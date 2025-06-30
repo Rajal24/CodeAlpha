@@ -1,6 +1,7 @@
 # CodeAlpha Projects Repository
 
 This repository contains mini-projects built for the CodeAlpha internship.
+👉 **[Live Demo](https://rajal24.github.io/CodeAlpha/Calculator/)**
 
 ## 📁 Projects So Far
 
